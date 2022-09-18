@@ -1,0 +1,311 @@
+.iphone13promax-1 {
+	width: 428px;
+	height: 926px;
+	padding: 0px;
+	background-color: #0f0f0f;
+	position: absolute;
+}
+.mioperatorconnect {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 42px;
+	font-family: Open Sans;
+	line-height: auto;
+	color: #f0f0f0;
+	left: 31px;
+	top: 110px;
+	position: absolute;
+}
+.welcometo {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 24px;
+	font-family: Open Sans;
+	left: 31px;
+	top: 77px;
+	width: 129px;
+	height: 33px;
+	position: absolute;
+	line-height: auto;
+	color: #ef6b12;
+}
+.rectangle1 {
+	border-radius: 7px;
+	width: 363px;
+	height: 578px;
+	background-color: #1d1d1d;
+	top: 253px;
+	left: 31px;
+	position: absolute;
+	box-shadow: 0px 0px 11px rgba(0, 0, 0, 0.30000001192092896);
+}
+.signin {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 24px;
+	font-family: Open Sans;
+	left: 48px;
+	top: 273px;
+	width: 77px;
+	height: 33px;
+	position: absolute;
+	line-height: auto;
+	color: #c5c5c5;
+}
+.signup {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 24px;
+	font-family: Open Sans;
+	left: 161px;
+	top: 273px;
+	width: 83px;
+	height: 33px;
+	position: absolute;
+	line-height: auto;
+	color: #5a5a5a;
+}
+.line1 {
+	width: 77px;
+	border: 3px solid #a74b0d;
+	top: 312px;
+	left: 48px;
+	position: absolute;
+}
+.rectangle2 {
+	border-radius: 5px;
+	width: 329px;
+	height: 58px;
+	background-color: #2d2d2d;
+	top: 360px;
+	left: 48px;
+	position: absolute;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.10000000149011612);
+}
+.rectangle4 {
+	border-radius: 5px;
+	width: 329px;
+	height: 58px;
+	background-color: #7f3d10;
+	top: 542px;
+	left: 49px;
+	position: absolute;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.10000000149011612);
+}
+.rectangle3 {
+	border-radius: 5px;
+	width: 329px;
+	height: 58px;
+	background-color: #2d2d2d;
+	top: 451px;
+	left: 49px;
+	position: absolute;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.10000000149011612);
+}
+.email/phone/miaccount {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 65px;
+	top: 377px;
+	width: 217px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #5a5a5a;
+}
+.forgotpassword {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 14px;
+	font-family: Open Sans;
+	left: 50px;
+	top: 633px;
+	width: 110px;
+	height: 19px;
+	position: absolute;
+	line-height: auto;
+	color: #e16410;
+}
+.moreoptions {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 14px;
+	font-family: Open Sans;
+	left: 159px;
+	top: 691px;
+	width: 90px;
+	height: 19px;
+	position: absolute;
+	line-height: auto;
+	color: #535353;
+}
+.signinusingphonenumber {
+	text-align: right;
+	vertical-align: text-top;
+	font-size: 14px;
+	font-family: Open Sans;
+	left: 241px;
+	top: 633px;
+	width: 137px;
+	height: 38px;
+	position: absolute;
+	line-height: auto;
+	color: #e16410;
+}
+.signin3 {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 184px;
+	top: 559px;
+	width: 58px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #c5c5c5;
+}
+.password2 {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 9px;
+	font-family: Open Sans;
+	left: 66px;
+	top: 461px;
+	width: 40px;
+	height: 12px;
+	position: absolute;
+	line-height: auto;
+	color: #5a5a5a;
+}
+.ellipse1 {
+	top: 484px;
+	left: 71px;
+	position: absolute;
+}
+.ellipse2 {
+	top: 484px;
+	left: 87px;
+	position: absolute;
+}
+.ellipse3 {
+	top: 484px;
+	left: 103px;
+	position: absolute;
+}
+.ellipse4 {
+	top: 484px;
+	left: 119px;
+	position: absolute;
+}
+.ellipse5 {
+	top: 484px;
+	left: 135px;
+	position: absolute;
+}
+.ellipse6 {
+	top: 484px;
+	left: 151px;
+	position: absolute;
+}
+.ellipse7 {
+	top: 484px;
+	left: 167px;
+	position: absolute;
+}
+.ellipse8 {
+	top: 484px;
+	left: 183px;
+	position: absolute;
+}
+.ellipse9 {
+	top: 484px;
+	left: 199px;
+	position: absolute;
+}
+.removeredeye {
+	width: 22px;
+	height: 22px;
+	padding: 0px;
+	left: 330px;
+	top: 473px;
+	position: relative;
+	background-color: #ffffff;
+}
+.vector {
+	width: 22px;
+	height: 22px;
+}
+.vector2 {
+	width: 20.166667938232422px;
+	height: 13.75px;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+}
+.line2 {
+	transform: rotate(44deg);
+	width: 22px;
+	border: 2px solid #505050;
+	top: 19px;
+	left: 4px;
+	position: absolute;
+}
+.rectangle5 {
+	border-radius: 5px;
+	width: 60px;
+	height: 60px;
+	background-color: #2d2d2d;
+	top: 731px;
+	left: 113px;
+	position: absolute;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle6 {
+	border-radius: 5px;
+	width: 60px;
+	height: 60px;
+	background-color: #2d2d2d;
+	top: 731px;
+	left: 227px;
+	position: absolute;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+.facebook {
+	width: 38px;
+	height: 38px;
+	padding: 0px;
+	left: 124px;
+	top: 742px;
+	position: absolute;
+	background-color: #ffffff;
+}
+.vector3 {
+	width: 38px;
+	height: 38px;
+}
+.vector4 {
+	width: 31.66666603088379px;
+	height: 31.58750343322754px;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+}
+.google {
+	width: 29px;
+	height: 29px;
+	padding: 0px;
+	left: 242px;
+	top: 747px;
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0);
+}
+.vector5 {
+	width: 25px;
+	height: 25px;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+}

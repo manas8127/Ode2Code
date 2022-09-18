@@ -1,0 +1,243 @@
+.iphone13promax-2 {
+	width: 428px;
+	height: 926px;
+	padding: 0px;
+	background-color: #0f0f0f;
+	position: absolute;
+}
+.setuptheenvironment {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 42px;
+	font-family: Open Sans;
+	line-height: auto;
+	color: #f0f0f0;
+	left: 31px;
+	top: 110px;
+	position: absolute;
+}
+.mioperatorconnect {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 24px;
+	font-family: Open Sans;
+	left: 31px;
+	top: 77px;
+	width: 229px;
+	height: 33px;
+	position: absolute;
+	line-height: auto;
+	color: #ef6b12;
+}
+.rectangle1 {
+	border-radius: 7px;
+	width: 363px;
+	height: 589px;
+	background-color: #1d1d1d;
+	top: 253px;
+	left: 31px;
+	position: absolute;
+	box-shadow: 0px 0px 11px rgba(0, 0, 0, 0.30000001192092896);
+}
+.welcome,
+harish {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 24px;
+	font-family: Open Sans;
+	left: 115px;
+	top: 282px;
+	width: 196px;
+	height: 33px;
+	position: absolute;
+	line-height: auto;
+	color: #c5c5c5;
+}
+.fillthedetailssotheprofilecanbeverified {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 12px;
+	font-family: Open Sans;
+	left: 48px;
+	top: 333px;
+	width: 239px;
+	height: 16px;
+	position: absolute;
+	line-height: auto;
+	color: #c5c5c5;
+}
+.rectangle7 {
+	border-radius: 5px;
+	width: 329px;
+	height: 58px;
+	background-color: #2d2d2d;
+	top: 367px;
+	left: 48px;
+	position: absolute;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.10000000149011612);
+}
+.rectangle9 {
+	border-radius: 5px;
+	width: 329px;
+	height: 58px;
+	background-color: #2d2d2d;
+	top: 546px;
+	left: 48px;
+	position: absolute;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.10000000149011612);
+}
+.rectangle8 {
+	border-radius: 5px;
+	width: 329px;
+	height: 103px;
+	background-color: #2d2d2d;
+	top: 434px;
+	left: 48px;
+	position: absolute;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.10000000149011612);
+}
+.rectangle10 {
+	border-radius: 5px;
+	width: 329px;
+	height: 143px;
+	background-color: #2d2d2d;
+	top: 613px;
+	left: 48px;
+	position: absolute;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.10000000149011612);
+}
+.selectstoretype {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 65px;
+	top: 384px;
+	width: 140px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #5a5a5a;
+}
+.selectstorename {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 65px;
+	top: 563px;
+	width: 150px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #5a5a5a;
+}
+.mihome {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 66px;
+	top: 451px;
+	width: 74px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #5a5a5a;
+}
+.mistorereliancedigi,
+hazratganj {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 66px;
+	top: 630px;
+	width: 271px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #5a5a5a;
+}
+.mistore2 {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 66px;
+	top: 493px;
+	width: 68px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #ef6b12;
+}
+.mistorealiganj {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 66px;
+	top: 672px;
+	width: 125px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #ef6b12;
+}
+.mistoredariyaganj {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 66px;
+	top: 714px;
+	width: 158px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #5a5a5a;
+}
+.arrow1 {
+	width: 1px;
+	left: 347px;
+	top: 400px;
+	position: absolute;
+}
+.arrow2 {
+	width: 1px;
+	left: 347px;
+	top: 579px;
+	position: absolute;
+}
+.line3 {
+	transform: rotate(-90deg);
+	width: 44.0113639831543px;
+	border: 2px solid #7f3d10;
+	top: 640.99px;
+	left: 367.5px;
+	position: absolute;
+}
+.rectangle72 {
+	border-radius: 5px;
+	width: 329px;
+	height: 58px;
+	background-color: #7f3d10;
+	top: 765px;
+	left: 48px;
+	position: absolute;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.10000000149011612);
+}
+.next {
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 18px;
+	font-family: Open Sans;
+	left: 183px;
+	top: 782px;
+	width: 42px;
+	height: 25px;
+	position: absolute;
+	line-height: auto;
+	color: #c5c5c5;
+}
